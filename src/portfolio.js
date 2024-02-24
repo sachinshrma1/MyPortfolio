@@ -190,7 +190,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "https://sachinshrma1.github.io/Weather-App/"
         }
         //  you can add extra buttons here.
       ]
@@ -202,7 +202,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: ""
         }
       ]
     }
