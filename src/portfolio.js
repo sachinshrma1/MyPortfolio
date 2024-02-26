@@ -196,13 +196,13 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/tour_logo.png"),
-      projectName: "Tour and Travel Management System",
+      image: require("./assets/images/Spotify_logo.png"),
+      projectName: "Spotify clone",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
         {
           name: "Visit Website",
-          url: ""
+          url: "https://sachinshrma1.github.io/spotify_clone/"
         }
       ]
     }
