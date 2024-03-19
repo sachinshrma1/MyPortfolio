@@ -144,17 +144,17 @@ const techStack = {
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
-    {
-      role: "Software Engineer, Trainee",
-      company: "XenonStack",
-      companylogo: require("./assets/images/XenonStack_Logo.png"),
-      date: "15 Janaury 2024 – 15 Febuary 2024",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
-    },
+    // {
+    //   role: "Software Engineer, Trainee",
+    //   company: "XenonStack",
+    //   companylogo: require("./assets/images/XenonStack_Logo.png"),
+    //   date: "15 Janaury 2024 – 15 Febuary 2024",
+    //   desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    //   descBullets: [
+    //     "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    //     "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+    //   ]
+    // },
     {
       role: "NPD Engineer",
       company: "Gilard Electronics Pvt. Ltd.",
@@ -162,8 +162,10 @@ const workExperiences = {
       date: "June 2020 – September 2022",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "1. Collaborated with cross-functional teams, including marketing, sales, and production, to ensure successful launches.",
+        " 2. Utilized CAD software to create 3D models and technical drawings for new product designs.",
+        "3. Designed and tested prototypes for new products, making revision and improvements based on performance and feedback.",
+        "4. Lead complete ownership, managed project timelines, ensuring timely delivery of products within budget constraints."
       ]
     }
   ]
