@@ -26,7 +26,7 @@ const greeting = {
     "A passionate FrontEnd Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1mWdQ6K41XV_EhNWBz3alF-yAF0W_tH-E/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1LO_AXq-5G2uyh9Q6PvQay2yOeroe-1sO/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
