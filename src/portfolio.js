@@ -160,7 +160,7 @@ const workExperiences = {
       company: "Gilard Electronics Pvt. Ltd.",
       companylogo: require("./assets/images/Gilard_logo.png"),
       date: "June 2020 – September 2022",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "Gilard Electronics Pvt. Ltd started as Gilard Radio Corporation in 1961 and it incorporated as Gilard Electronics Pvt. Ltd in 1983. One of the leading manufacturers and exporters of Automobile Switches. They offer various kinds of Switches like LCV Switches, Tractor Switches, Resistors, Toggle Switches, Micro Switches, Mini Micro Switches, Resistor Blowers, Combination Switch - SML, AC Switches, Wiper Motor Cover Sub Assembly, Wire Assemblies, Snap Action Switches, Sub Miniature Micro Switches, Sensitive and Super Sensitive Switches, Switch Lamp, Hazard Switch, Power Connectors and Terminal Blocks, etc. Expertise in:Tool Manufacturing - Plastic Moulds & Sheet Metal Tools , Product and Process Designing,Pressure Die Castings,Metal Sheet & Machining,Plastics - Thermoset & Thermo Plastic",
       descBullets: [
         "1. Collaborated with cross-functional teams, including marketing, sales, and production, to ensure successful launches.",
         " 2. Utilized CAD software to create 3D models and technical drawings for new product designs.",
